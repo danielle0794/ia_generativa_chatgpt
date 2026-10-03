@@ -1,0 +1,5 @@
+#1. Exemplo percorrendo uma lista de paginas
+pdfs = ["menu.pdf","cardapio.pdf","manual.pdf","contatos.pdf"]
+
+for pdf in pdfs:
+    print("Carregando o arquivo ",pdf)
